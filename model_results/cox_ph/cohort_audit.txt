@@ -1,0 +1,7 @@
+Cox PH cohort audit
+===================
+Rows used for fitting: 5649
+Redemption events used: 738
+Censored observations used: 4911
+Zero-day rows excluded: 8
+Zero-day redemption events excluded: 8

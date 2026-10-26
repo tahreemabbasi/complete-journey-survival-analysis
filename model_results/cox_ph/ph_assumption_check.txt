@@ -1,0 +1,3 @@
+The model fitted, but the proportional hazards diagnostic could not complete automatically.
+Error: 'household_id'
+Do not assume the PH assumption is satisfied. We can investigate this diagnostic separately.

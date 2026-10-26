@@ -1,0 +1,7 @@
+Log-rank test comparing campaign types
+=======================================
+Test statistic: 80.0617
+P-value: 4.11933e-18
+
+Interpretation:
+There is statistical evidence that at least one campaign type has a different survival curve. This test does not identify which specific pairs differ.

@@ -1,0 +1,2 @@
+model,training_observations,testing_observations,training_events,testing_events,test_c_index,zero_day_rows_excluded,zero_day_events_excluded
+Random Survival Forest,4266,1383,532,206,0.7270510092885684,8,8

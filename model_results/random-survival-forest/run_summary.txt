@@ -1,0 +1,12 @@
+Random Survival Forest Analysis
+===============================
+Positive-duration observations: 5649
+Training observations: 4266
+Testing observations: 1383
+Training events: 532
+Testing events: 206
+Zero-day rows excluded: 8
+Zero-day redemption events excluded: 8
+Test-set C-index: 0.7271
+
+The C-index measures ranking ability, not exact prediction of redemption dates. The model does not establish causation.

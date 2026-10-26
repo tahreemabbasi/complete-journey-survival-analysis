@@ -1,0 +1,18 @@
+Fair Model Evaluation Audit
+===========================
+Input file: C:\Users\TEHREEM\Desktop\CompleteJourneySurvival\data\model_dataset.csv
+Positive-duration observations: 5649
+Zero-day rows excluded: 8
+Zero-day redemption events excluded: 8
+Training observations: 4266
+Test observations: 1383
+Training redemption events: 532
+Test redemption events: 206
+Household overlap: 0
+Encoded predictors: 45
+Cox PH test C-index: 0.7211
+RSF test C-index: 0.7205
+
+Both models used the same cohort, household-grouped split, preprocessed predictors, and test observations.
+C-index measures ranking ability, not exact date prediction.
+Time-dependent AUC estimates and any limitations are recorded in time_dependent_auc.csv.

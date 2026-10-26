@@ -66,12 +66,6 @@ This is a simplified overview. Refer to the actual project directory for the com
 
 **Requirements:** Python 3.12, pandas, NumPy, Matplotlib, scikit-learn, lifelines, and scikit-survival (`sksurv`). Use VS Code or Jupyter Notebook to inspect and run the analysis.
 
-On Windows, activate the existing project environment from the project directory:
-
-```bash
-.\.venv312\Scripts\activate
-```
-
 Install any missing dependencies in that environment using `python -m pip install package-name`, replacing `package-name` with the required package. Ensure that VS Code uses the same Python interpreter.
 
 Run the relevant Python scripts from the project directory, following the data paths specified in each script. Exploratory outputs are stored in `eda_results/`, while model outputs and evaluation results are stored in `model_results/`.
